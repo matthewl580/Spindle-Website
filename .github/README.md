@@ -1,5 +1,5 @@
 <div align="center"> <img src="https://cdn.glitch.global/e1bb975a-9da8-4eb1-bcd1-68066f8e9cd4/thumbnails%2Flogo-no-background.png?1734132398879" style="height: 200px; padding: 20px" />
-<h1><b>Spindle</b></h1> <p style="font-size:14px">  <b> Programming language that enables you to practice AP CSP Exam code as real, live code.  </b> 
+<h1><b>The Spindle Website</b></h1> <p style="font-size:14px">  <b> Programming language that enables you to practice AP CSP Exam code as real, live code.  </b> 
 </b></b> <br> ⭐ Star us, it motivates us a lot! <br>  ✨  <a href="https://github.com/spindle-project/Spindle">Also star the Spindle language itself!</a></div> <br>
 
 # **Welcome to the Spindle Website Repository!**
